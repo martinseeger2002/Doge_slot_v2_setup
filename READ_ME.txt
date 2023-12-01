@@ -1,3 +1,4 @@
+Run installer.
 Copy the dogecoin.conf file to you Dogecoin Core datadir.
 To find datadir open Dogecoin core click help --> Debug window.
 Start server Doge_slot_2.exe
