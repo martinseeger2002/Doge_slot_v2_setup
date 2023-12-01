@@ -15,7 +15,7 @@ There is a 1% dev fee for all credits added to the game.
 
 This slot machine is designed solely for entertainment purposes and personal use. It is not intended for gambling or any commercial use. Please remember to play responsibly and enjoy the fun!"
 
-Gameplay: Click 'Credits' to display a Dogecoin QR code linked to a Dogecoin Core address. You can send Dogecoin from your Dogecoin mobile wallet to this address, which will add credits to the slot machine for your gameplay. Enjoy spinning the reels and experiencing the fun theme.
+Gameplay: Click 'Credits' to display a Dogecoin QR code linked to a Dogecoin Core address. You can send Dogecoin from your Dogecoin mobile wallet to this address, which will add credits to the slot machine for your gameplay. There is a 1% dev fee for all credits added to the game. Enjoy spinning the reels and experiencing the fun theme.
 
 When you're ready to conclude, click the 'Cash Out' button. Any remaining credits will be sent to the mobile wallet that made the initial transaction.
 
