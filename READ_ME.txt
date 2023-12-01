@@ -5,7 +5,7 @@ This is needed for the random icon grenaration and as a "bank" for the game.
 Copy the dogecoin.conf file to you Dogecoin Core datadir.
 To find datadir open Dogecoin core click help --> Debug window.
 
-Run installer. Doge_slot_v2_set up
+Run installer. Doge_slot_v2_setup.exe
 
 Start server Doge_slot_2.exe
 
